@@ -1,5 +1,5 @@
 ### Yo whatsup, I'm Raihan 👋
-An inquisitive individual traversing the realms of technology and software development, captivated by the intricate realm of UI/UX design.
+An inquisitive individual traversing the realms of technology and software development, captivated by the intricate universe of UI/UX design.
 
 - 📚 I’m currently learning React, Typescript, and NextJS
 - 💻 Currently working on some portfolio projects
