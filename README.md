@@ -1,5 +1,6 @@
 ### Yo whatsup, I'm Raihan 👋
-Undergrad SE (Software Engineering) student, interested in programming, computer, and design. I spend my free time either coding or play some video games.<br/>
+Undergrad SE (Software Engineering) student, interested in programming, computer, and design. <br>
+I spend my free time either coding or play some video games.<br>
 
 - 📚 Presently learning about JS tech stacks for web dev and ML
 - 💻 Still developing my side projects
