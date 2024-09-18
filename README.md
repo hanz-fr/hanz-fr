@@ -1,12 +1,9 @@
 ### Yo whatsup, I'm Raihan 👋
-An inquisitive individual traversing the realms of technology and software development, captivated by the intricate universe of UI/UX design.
+Undergrad SE (Software Engineering) student, interested in programming, computer, and design. I spend my free time either coding or play some video games.<br/>
 
-- 📚 I’m currently learning React, Typescript, and NextJS
-- 💻 Currently working on some portfolio projects
-- 💬 Ask me about Code & Tech stuffs
-- ⚡ I code to buy Macbook and upgrade my PC lol
-- 📱 Interested in UI/UX design universe, especially mobile devices
-- 🤖 Looking forward to explore AI & ML
+- 📚 Presently learning about JS tech stacks for web dev and ML
+- 💻 Still developing my side projects
+- 🐱‍👤 Just trying out all the stuffs that I'm interested in right now
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanz-fr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="hanz-fr" /></p>
 
