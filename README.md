@@ -1,17 +1,18 @@
-### Yo whatsup, I'm Raihan 👋
-Undergrad SE (Software Engineering) student, interested in programming, computer, and design. <br>
-I spend my free time either coding or play some video games.<br>
+### おっす、ライハンです！ 👋
+ソフトエアエンジニアリングの学部生
+プログラミングとデザインとコンピューターに興味がある <br>
+自由な時間がプログラミングやビデオゲームをします　<br>
 
-- 📚 Presently learning about JS tech stacks for web dev and ML
-- 💻 Still developing my side projects
-- 🐱‍👤 Just trying out all the stuffs that I'm interested in right now
+- 📚 今JSフレームワークとMLを勉強しています
+- 💻 サイドプロジェクトがまだ作ってます
+- 🐱‍👤 今は興味のあるものをすべて試している
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanz-fr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="hanz-fr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanz-fr&theme=tokyonight&hide_border=false" alt="hanz-fr" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanz-fr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">プログラミング言語とツール</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
 </p>
